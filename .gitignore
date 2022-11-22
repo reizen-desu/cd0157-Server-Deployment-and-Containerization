@@ -30,4 +30,4 @@ htmlcov/
 
 .github/**
 
-aws-auth-patch.yaml
+aws-auth-patch.yml
